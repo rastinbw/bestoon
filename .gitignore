@@ -17,3 +17,4 @@ tests/report/
 #Do it yourself#
 *.sqlite3
 settings.py
+*.sh
